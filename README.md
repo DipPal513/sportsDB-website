@@ -3,4 +3,4 @@
 
 
 
-https://dippal513.github.io/sportsDb-website/
+https://dippal513.github.io/sportsDB-website/
